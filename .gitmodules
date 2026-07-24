@@ -1,5 +1,22 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "SpatialVx"]
+	path = SpatialVx
+	url = https://github.com/cran/SpatialVx
+[submodule "distillery"]
+	path = distillery
+	url = https://github.com/cran/distillery
+[submodule "extRemes"]
+	path = extRemes
+	url = https://github.com/cran/extRemes
+[submodule "ismev"]
+	path = ismev
+	url = https://github.com/cran/ismev
+[submodule "smoothie"]
+	path = smoothie
+	url = https://github.com/cran/smoothie
+[submodule "verification"]
+	path = verification
+	url = https://github.com/cran/verification
